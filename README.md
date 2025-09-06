@@ -1,5 +1,5 @@
 # MiniDocs
 Static site generator using Markdown and made with Python
 
-> [WARNING]
+> [!WARNING]
 > MiniDocs is currently experimental.
